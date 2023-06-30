@@ -1,0 +1,2 @@
+/usr/bin/ar qc libngscope_dci.a  CMakeFiles/ngscope_dci.dir/load_config.c.o CMakeFiles/ngscope_dci.dir/ngscope_main.c.o CMakeFiles/ngscope_dci.dir/phich_decoder.c.o CMakeFiles/ngscope_dci.dir/radio.c.o CMakeFiles/ngscope_dci.dir/status_tracker.c.o CMakeFiles/ngscope_dci.dir/task_scheduler.c.o CMakeFiles/ngscope_dci.dir/dci_decoder.c.o CMakeFiles/ngscope_dci.dir/parse_args.c.o
+/usr/bin/ranlib libngscope_dci.a

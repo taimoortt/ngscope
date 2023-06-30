@@ -1,0 +1,5 @@
+
+Searching for cell...
+ Found Cell_id:   0 FDD, CP: Normal  , DetectRatio= 0% PSR=0.00, Power=-inf dBm
+*Found Cell_id:  55 FDD, CP: Normal  , DetectRatio=100% PSR=6.67, Power=3.7 dBm
+ Found Cell_id:   0 FDD, CP: Normal  , DetectRatio= 0% PSR=0.00, Power=-inf dBm
